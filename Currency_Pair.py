@@ -1,4 +1,4 @@
-from datetime import datetime
+
 from forex_python.converter import get_rates
 import fire
 import pandas as pd
